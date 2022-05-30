@@ -1,0 +1,166 @@
+id: IF33A0D32
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:31:24.629208'
+last_modified: '2022-05-30T18:31:24.629217'
+parser: null
+source_metadata:
+  title: Chokgyur Dechen Lingpa
+  language: it
+  description: 'The following texts are available as part of our series honouring
+    the life and work of the famous tertön Chokgyur Dechen Lingpa (mchog gyur bde
+    chen gling pa, 1829–1870):'
+  volume:
+    f32EF:
+      title: 'Advice on Nonsectarianism (from Radiant Sunlight of the Victorious Ones''
+        Teachings: A Brief, First-Hand Account of the Liberating Life-Story of the
+        Great Emanated Treasure Revealer)'
+      base_file: f32EF.txt
+      order: 1
+      parent: Advice
+    fD2CF:
+      title: Pithy Advice on Checking One's Progress on the Path
+      base_file: fD2CF.txt
+      order: 2
+      parent: Advice
+    fB6D6:
+      title: A Prayer of Aspiration for the Copper-Coloured Mountain of Glory
+      base_file: fB6D6.txt
+      order: 3
+      parent: Aspiration Prayers
+    fA555:
+      title: The Aspiration of the Vajradhātu Maṇḍala
+      base_file: fA555.txt
+      order: 4
+      parent: Aspiration Prayers
+    f7BB9:
+      title: Threefold Aspiration for Rebirth in Zangdok Palri
+      base_file: f7BB9.txt
+      order: 5
+      parent: Aspiration Prayers
+    f20E4:
+      title: 'Radiant Sunlight of the Victors’ Teachings: A Brief, First-Hand Account
+        of the Liberating Life-Story of the Great Emanated Treasure Revealer'
+      base_file: f20E4.txt
+      order: 6
+      parent: Biography
+    fEE3D:
+      title: 'The Wish-Fulfilling Tree: The Life Story of the Master of Uḍḍiyāna
+        as found in Padmasambhava’s Sevenfold Cycle of Profundity'
+      base_file: fEE3D.txt
+      order: 7
+      parent: Biography
+    f78A9:
+      title: Concise Offering of the Body from the Root Text of the Heart Accomplishment
+        of the Guru Tukdrup, The Essential Manual of Oral Instructions (Shaldam Nyingjang)
+      base_file: f78A9.txt
+      order: 8
+      parent: Chöd
+    f5848:
+      title: The Inexpressible, Ultimate Confession (Yeshe Kuchokma)
+      base_file: f5848.txt
+      order: 9
+      parent: Confession
+    fD555:
+      title: The Lament of Rudra
+      base_file: fD555.txt
+      order: 10
+      parent: Confession
+    f47D6:
+      title: 'Pearl Droplets of Blessings: A Prayer to the Guru Who Embodies All'
+      base_file: f47D6.txt
+      order: 11
+      parent: Guru Rinpoche Prayers
+    f3A0F:
+      title: The Prayer Which Removes All Obstacles from the Path (Barché Lamsel)
+      base_file: f3A0F.txt
+      order: 12
+      parent: Guru Rinpoche Prayers
+    f23B4:
+      title: The Prayer in Six Vajra Lines
+      base_file: f23B4.txt
+      order: 13
+      parent: Guru Rinpoche Prayers
+    f9E26:
+      title: The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes (Sampa
+        Lhundrupma)
+      base_file: f9E26.txt
+      order: 14
+      parent: Guru Rinpoche Prayers
+    f3DB6:
+      title: 'The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes (Sampa
+        Lhundrupma) from The Guru’s Heart Practice: The Wish-Fulfilling Jewel'
+      base_file: f3DB6.txt
+      order: 15
+      parent: Guru Rinpoche Prayers
+    fD9DF:
+      title: The Testament Prayer to Orgyen Rinpoche
+      base_file: fD9DF.txt
+      order: 16
+      parent: Guru Rinpoche Prayers
+    fC478:
+      title: A Concise Guru Yoga
+      base_file: fC478.txt
+      order: 17
+      parent: Guru Yoga
+    f7441:
+      title: 'Youthfulness Gained in Vajra-like Immortality: Verses of Truth for the
+        Long Life of the Perfect Masters'
+      base_file: f7441.txt
+      order: 18
+      parent: Long Life Prayers
+    f9BC9:
+      title: 'The Concise Cleansing Offering from The Guru’s Heart Practice: Dispelling
+        All Obstacles on the Path'
+      base_file: f9BC9.txt
+      order: 19
+      parent: Offering
+    fC03A:
+      title: White and Red Sur Offerings That Are Very Easy to Apply
+      base_file: fC03A.txt
+      order: 20
+      parent: Offering
+    f4368:
+      title: 'The Excellent Bilva Tree of Auspiciousness: Praise and Prayer to Terchen
+        Chokgyur Lingpa'
+      base_file: f4368.txt
+      order: 21
+      parent: Praise
+    f4279:
+      title: A Prayer to the Vidyādhara Gurus
+      base_file: f4279.txt
+      order: 22
+      parent: Prayers
+    fB17F:
+      title: Prayer to Khyentse Wangpo, Kongtrul and Chokgyur Lingpa
+      base_file: fB17F.txt
+      order: 23
+      parent: Prayers
+    f82BF:
+      title: Concise Daily Practice of Vajrasattva
+      base_file: f82BF.txt
+      order: 24
+      parent: Sādhanas
+    f8B73:
+      title: The Single-Page Practice of the Guru of Great Bliss
+      base_file: f8B73.txt
+      order: 25
+      parent: Sādhanas
+    fD76F:
+      title: The Twenty-Eight Commitments
+      base_file: fD76F.txt
+      order: 26
+      parent: Tantra
+    f09A3:
+      title: Vajrakīla Tsok Prayer from Sangtik Korsum
+      base_file: f09A3.txt
+      order: 27
+      parent: Tsok
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
